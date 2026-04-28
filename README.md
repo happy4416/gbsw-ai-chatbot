@@ -6,6 +6,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-14+-black.svg)](https://nextjs.org/)
 [![Ollama](https://img.shields.io/badge/Ollama-Latest-orange.svg)](https://ollama.ai/)
+<img width="1068" height="832" alt="스크린샷 2026-04-28 181106" src="https://github.com/user-attachments/assets/e4e2f0cf-f33c-4b0f-9a7f-db0d9e521739" />
 
 ## 📌 프로젝트 소개
 
