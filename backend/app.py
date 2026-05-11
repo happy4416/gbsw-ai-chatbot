@@ -25,7 +25,7 @@ crawler_service = CrawlerService()
 
 class ChatRequest(BaseModel):
     message: str
-    model: Optional[str] = "gemma2:2b"
+    model: Optional[str] = "qwen2.5:3b"
 
 class ChatResponse(BaseModel):
     response: str

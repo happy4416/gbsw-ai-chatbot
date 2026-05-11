@@ -23,7 +23,7 @@ class OllamaService:
         except Exception as e:
             return {"models": [], "error": str(e)}
     
-    async def generate(self, prompt: str, model: str = "gemma2:2b") -> str:
+    async def generate(self, prompt: str, model: str = "qwen2.5:3b") -> str:
         """텍스트 생성"""
         try:
             async with httpx.AsyncClient(timeout=120.0) as client:

@@ -16,7 +16,7 @@ export default function Home() {
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
   const [models, setModels] = useState<string[]>([]);
-  const [selectedModel, setSelectedModel] = useState('gemma2:2b');
+  const [selectedModel, setSelectedModel] = useState('qwen2.5:3b');
   const [health, setHealth] = useState<any>({});
 
   useEffect(() => {
