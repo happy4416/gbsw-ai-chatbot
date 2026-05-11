@@ -25,7 +25,7 @@ crawler_service = CrawlerService()
 
 class ChatRequest(BaseModel):
     message: str
-    model: Optional[str] = "neural-chat:latest"
+    model: Optional[str] = "gemma2:2b"
 
 class ChatResponse(BaseModel):
     response: str
