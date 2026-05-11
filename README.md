@@ -8,6 +8,13 @@
 [![Ollama](https://img.shields.io/badge/Ollama-Latest-orange.svg)](https://ollama.ai/)
 <img width="1068" height="832" alt="스크린샷 2026-04-28 181106" src="https://github.com/user-attachments/assets/e4e2f0cf-f33c-4b0f-9a7f-db0d9e521739" />
 
+## 📸 스크린샷
+
+<div align="center">
+  <img src="./images/screenshot.png" alt="챗봇 화면" width="800"/>
+  <p><em>경북소프트웨어마이스터고 도우미 AI 챗봇 인터페이스</em></p>
+</div>
+
 ## 📌 프로젝트 소개
 
 경북소프트웨어마이스터고등학교의 학생들을 위한 AI 도우미입니다.

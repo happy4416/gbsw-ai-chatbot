@@ -36,3 +36,7 @@ chroma_db/
 
 # vLLM wheel file
 *.whl
+
+# Keep images folder but ignore temp files
+!images/
+images/.DS_Store
